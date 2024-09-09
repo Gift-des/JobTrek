@@ -1,0 +1,16 @@
+package com.example.jobtrek.navigation
+
+const val ROUT_SPLASH = "splash"
+const val ROUT_LOGIN = "login"
+const val ROUT_SIGNUP = "signup"
+const val ROUT_HOME = "home"
+const val ROUT_ACCOUNTANT = "aco"
+const val ROUT_ANALYST = "analyst"
+const val ROUT_APPLY = "apply"
+const val ROUT_ENTREPRENEUR= "entrepreneur"
+const val ROUT_HR = "hr"
+const val ROUT_MARKETING = "marketing"
+const val ROUT_SALES = "sales"
+const val ROUT_TEST = "test"
+const val ROUT_OTHERS = "other"
+const val ROUT_SUCCESS = "success"

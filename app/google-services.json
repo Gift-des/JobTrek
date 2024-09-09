@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981112528597",
+    "project_id": "jobtrek-b5206",
+    "storage_bucket": "jobtrek-b5206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981112528597:android:37d9d6b064e66e8b1e8c5c",
+        "android_client_info": {
+          "package_name": "com.example.jobtrek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKClbRFooQjwmh1mSClZoHdydqfXuDlPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
